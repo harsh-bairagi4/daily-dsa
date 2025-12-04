@@ -1,7 +1,7 @@
 //https://leetcode.com/problems/transpose-matrix/description/
 //867. Transpose Matrix
 
-package sharma.arrays;
+package harsh.arrays;
 
 import java.util.Arrays;
 import java.util.Scanner;

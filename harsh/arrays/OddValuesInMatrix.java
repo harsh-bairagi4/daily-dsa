@@ -1,7 +1,7 @@
 //https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/description/
 //1252. Cells with Odd Values in a Matrix
 
-package sharma.arrays;
+package harsh.arrays;
 
 import java.util.Arrays;
 import java.util.Scanner;
