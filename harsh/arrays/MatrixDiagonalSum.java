@@ -1,7 +1,7 @@
 //https://leetcode.com/problems/matrix-diagonal-sum/description/
 //1572. Matrix Diagonal Sum
 
-package sharma.arrays;
+package harsh.arrays ;
 
 import java.util.Arrays;
 import java.util.Scanner;
